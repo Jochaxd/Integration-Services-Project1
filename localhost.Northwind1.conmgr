@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="localhost.Northwind1"
+  DTS:DTSID="{088806A0-AAE5-4575-86D8-FD930204A24F}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=localhost;Initial Catalog=Northwind;Integrated Security=True;Application Name=SSIS-Integration Services Project1-{088806A0-AAE5-4575-86D8-FD930204A24F}localhost.Northwind1;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
